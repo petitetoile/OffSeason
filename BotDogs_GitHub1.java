@@ -19,7 +19,10 @@ public class BotDogs_GitHub1
         names = new ArrayList<String>();
     }
 
-    
+    public void test()
+    {
+        
+    }
     
     
     /**
